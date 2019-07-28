@@ -1,4 +1,4 @@
-#name = "Brad"
+name = "Brad"
 language = "Ruby"
 
 def introduction (name)
